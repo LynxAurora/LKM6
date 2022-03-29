@@ -1,1 +1,2 @@
 # LKM6
+# Enkapsulasi
